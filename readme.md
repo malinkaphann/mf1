@@ -1,6 +1,6 @@
 # module federation 1
 
-Module Federation is not an easy architecture. However, this sample project aims to make it easy to understand.
+This is a sample project for module federation topic. The purpose of this sample is to make module federation topic as much easy to understand as possible.
 
 ## cart is a guest.
 
